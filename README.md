@@ -1,1 +1,71 @@
-# jie70052.github.io
+<!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html14/strict.dtd">
+<html>
+<head>
+  <META http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
+<title>Verona, Italy</title>
+</head>
+<body style="background-color: hsl(0, 100%, 90%);">
+<h1 style="border:2px solid White; text-align: center">Verona, Italy</h1>
+<img src="Maesh.jpg" alt="Verona, Italy" style="display: block;margin-left: auto;margin-right: auto;" height="320px" width="480px">
+</body>
+<body>
+  <div style="text-align:center">
+<p> At a population of 258,108, Verona is the third largest city in northeast Italy. The city is positioned along the Adige River. Additionally, the city lies within a 40-kilometer radius of lake Garda. </p>
+<p>Interestingly enough, the history of the city remains a mystery, although various theories have been formulated. The city became prominent by serving as the interconnection of numerous roads. Today the city remains a major transportation site. By serving as the intersection between a route running east to west and north to south, most of Europe is accessible through the railway system. </p>
+<p> Verona is popularity known for serving as the setting of Shakespeares famous play, "Romeo and Juliet". Verona is notable for its medieval architecture. Some prime examples of this can be seen in the basilica of San Lorenzo, Santa Maria Antica, and the basilica of San Zeno Maggiore. Although various structures were damaged in the earthquake on January 3rd 1117, numerous ancient Roman monuments were preserved. Because of the effort to preserve the remaining buildings, Verona has a plethora of historical sites, causing it to be named a UNESCO World Heritage Site. It's beautiful sights, rich history and delicious restaurants make it the perfect location of tourism. </p>
+</div>
+<i><b> Verona's Major Attractions </b></i>
+<ul style="list-style-type:circle">
+  <li> Castelvecchio and Ponte Scaligero</li>
+  <li> Piazza delle Erbe</li>
+  <li> Giardino Giusti</li>
+  <li> San Fermo Maggiore </li>
+  <li> Arena di Verona (Roman Amphitheater)</li>
+</ul>
+
+<p><i> <b>Dining Options</b> </i> </p>
+<table style="width:100%" border="1">
+	
+  <tr>
+    <th>Local Italian Cuisine </th>
+    <th>Pizza Restaurants</th> 
+    <th>Cafes and Bakerys</th>
+  </tr>
+  <tr>
+    <td>Casa Perbellini</td>
+    <td>Pizzeria Tutti Gusti</td> 
+    <td>Caffe Al Teatro</td>
+  </tr>
+  <tr>
+    <td>Salumeria Gironda</td>
+    <td>Pizzeria al Taglio e Alla Pala di Paolo e Rosetta</td> 
+    <td>Elk Bakery</td>
+  </tr>
+   <tr>
+    <td>La Piazzetta Ristorante</td>
+    <td>Pizzeria Risotteria da Mario</td> 
+    <td>Ciccarelli Cafe</td>
+  </tr>
+</table>
+<p><i><b>Learn More</b></i></p>
+<p>To learn more there are multiple helpful videos available on YouTube:</p>
+<ul style="list-style-type:circle">
+  <li><a href="https://www.youtube.com/watch?v=LEsLDtUvfcc">Video 1</a>: Information on how to view Veronas main attractions in one day</li>
+  <li><a href="https://www.youtube.com/watch?v=racoWNZVBJU">Video 2</a>: Explore Veronas landscape and city life </li>
+<strong>Additionally, the UGA School of Public and International Affairs offers two study abroad options in Verona, one in the <a href="https://spia.uga.edu/undergraduate/study-abroad-programs/globis-programs/verona-spring/">Spring Semester</a> and one in the <a href="https://spia.uga.edu/undergraduate/study-abroad-programs/globis-programs/verona-summer/">Maymester</a>.
+<style>
+.studyaway {
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+} 
+</style>
+</head>
+<body>
+<div class="studyaway">
+  <h2 style="font-family:verdana;">V E R O N A...</h2>
+  <p style="font-family:courier;">...The perfect city to explore European culture</p>
+</div>
+</body>
+</html>
